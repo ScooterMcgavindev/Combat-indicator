@@ -1,0 +1,5 @@
+## Interface: 20500
+## Author: Knall, Halasolol, Macumba, ScooterMcGavin
+## Title: CombatIndicator
+## Notes: Add a Dual Wield icon when your Target/Focus is in combat.
+CombatIndicator.lua
